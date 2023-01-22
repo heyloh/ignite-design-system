@@ -10,6 +10,13 @@ export default {
     src: 'https://github.com/heyloh.png',
     alt: 'Lohana Torres',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
