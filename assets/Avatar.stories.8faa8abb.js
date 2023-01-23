@@ -1,0 +1,2 @@
+import{A as t}from"./index.3afc994f.js";import"./index.e7a152cf.js";import"./iframe.9475e34f.js";import"./index.52cd7b9c.js";import"./jsx-runtime.89be41ed.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/heyloh.png",alt:"Lohana Torres"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.8faa8abb.js.map
